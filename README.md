@@ -66,7 +66,7 @@ If `movie_dataset.csv` is not found, the script will display an error message:
 Error: 'movie_dataset.csv' not found.
 ```
 
-Contributing
+## Contributing
 
 Feel free to fork this repository, submit issues, or create pull requests to contribute to this project.
 
