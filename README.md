@@ -70,3 +70,9 @@ Error: 'movie_dataset.csv' not found.
 
 Feel free to fork this repository, submit issues, or create pull requests to contribute to this project.
 
+### ps :
+I have already made two updates.
+1. `feno01_project1_update.py`
+2. `feno01_project1_update2.py`
+
+These versions are more interactive.
