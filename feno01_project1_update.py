@@ -6,13 +6,6 @@ Created on Sat Oct 26 13:06:05 2024
 @author: feno
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 23 14:34:27 2024
-@author: feno
-"""
-
 import pandas as pd
 
 # Load the dataset
